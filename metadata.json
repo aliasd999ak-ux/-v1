@@ -1,0 +1,6 @@
+{
+  "name": "جرد الأطعمة",
+  "description": "تطبيق ذكي لجرد وتتبع صلاحية الأطعمة والخضروات والفواكه بالصور ومكان التخزين.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
